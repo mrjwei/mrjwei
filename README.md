@@ -15,7 +15,7 @@
 I’m currently taking a PM role on a web app development project. This app is designed to help streamline workflows and improve quality of service in social welfare facilities in Japan.
 
 ### What I'm learning
-I'm learning GraphQL and Redux Toolkit at the moment.  
+The more I use frontend frameworks, the more I feel like to get down to the basics and get a deeper understanding of the work of Internet, TCP/IP, web APIs and javascript. And these are what I'm studying pretty hard recently.
 
 Find more about me, my works and other resources at:
 [Jesse Wei](https://jessewei.jp)
