@@ -12,10 +12,14 @@
 - When I'm not working on my apps, you would find me illustrating or practising latte art. I'm also crazy about the Premier League.
 
 ### What I'm doing
-I’m currently taking a PM role on a web app development project. This app is designed to help streamline workflows and improve quality of service in social welfare facilities in Japan.
+I’m currently taking a PM role on a web app development project. This app is designed to accelerate digital transformation in the social welfare industry.
 
 ### What I'm learning
-The more I use frontend frameworks, the more I feel like to get down to the basics and get a deeper understanding of the work of Internet, TCP/IP, web APIs and javascript. And these are what I'm studying pretty hard recently.
+- I am studying the book, [Eloquent Javascript](https://eloquentjavascript.net/) .
+- I am in the middle of a [30-day coding challenge](https://challenges.jessewei.jp/).
+- I am building a chat app using react, redux and firebase.
+- I am reading source code of OSS.
+- And many more.
 
 Find more about me, my works and other resources at:
 [Jesse Wei](https://jessewei.jp)
