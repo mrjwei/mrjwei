@@ -12,13 +12,14 @@
 - When I'm not working on my apps, you would find me illustrating or practising latte art. I'm also crazy about the Premier League.
 
 ### What I'm doing
-I’m currently taking a PM role on a web app development project. This app is designed to accelerate digital transformation in the social welfare industry.
+- I am currently taking a PM role on a web app development project which aims to accelerate digital transformation in the social welfare industry.
+- I am doing a couple of other client development projects.
+- I am in the middle of a [30-day coding challenge](https://challenges.jessewei.jp/).
 
 ### What I'm learning
-- I am studying the book, [Eloquent Javascript](https://eloquentjavascript.net/) .
-- I am in the middle of a [30-day coding challenge](https://challenges.jessewei.jp/).
-- I am building a chat app using react, redux and firebase.
-- I am reading source code of OSS.
+- I am learning Web APIs on [MDN](https://developer.mozilla.org/en-US/docs/Web/API).
+- I am reading an amazing book, [The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293/ref=sr_1_3?crid=RJZGUSA9CDFX&keywords=readable+code&qid=1650497897&sprefix=readable+cod%2Caps%2C426&sr=8-3).
+- I am studying design systems & learning Storybook.
 - And many more.
 
 Find more about me, my works and other resources at:
