@@ -1,7 +1,7 @@
 ## Hi, I'm [Jesse Wei](https://jessewei.jp)
-[<img src="https://github.com/mrjwei/mrjwei/blob/main/icons/GitHub-Mark-64px.png" width=30>](http://google.com.au/)&nbsp;&nbsp;
-[<img src="https://github.com/mrjwei/mrjwei/blob/main/icons/Twitter%20social%20icons%20-%20circle%20-%20blue.png" width=30>](http://google.com.au/)&nbsp;&nbsp;
-[<img src="https://github.com/mrjwei/mrjwei/blob/main/icons/P-Badge-Pushpin-Red-450.png" width=30>](http://google.com.au/)  
+[<img src="https://github.com/mrjwei/mrjwei/blob/main/icons/GitHub-Mark-64px.png" width=30>](https://github.com/mrjwei)&nbsp;&nbsp;
+[<img src="https://github.com/mrjwei/mrjwei/blob/main/icons/Twitter%20social%20icons%20-%20circle%20-%20blue.png" width=30>](https://twitter.com/jweiit)&nbsp;&nbsp;
+[<img src="https://github.com/mrjwei/mrjwei/blob/main/icons/P-Badge-Pushpin-Red-450.png" width=30>](https://www.pinterest.com/mrjwei)  
 
 <hr>  
 
