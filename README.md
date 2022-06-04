@@ -18,7 +18,7 @@
 
 ### What I'm learning
 - I am learning Web APIs on [MDN](https://developer.mozilla.org/en-US/docs/Web/API).
-- I am reading an amazing book, [The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293/ref=sr_1_3?crid=RJZGUSA9CDFX&keywords=readable+code&qid=1650497897&sprefix=readable+cod%2Caps%2C426&sr=8-3).
+- I am building a full-stack todo app that aims to match the level of sophistication of Todoist but with better UX.
 - I am studying design systems & learning Storybook.
 - And many more.
 
