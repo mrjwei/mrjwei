@@ -38,4 +38,4 @@ Senior IC roles where design, engineering and AI meet inside real operations: de
 
 ### Find me
 
-[jessewei.net](https://jessewei.net) · [LinkedIn](https://www.linkedin.com/in/jesse-wei-profile/) · [Medium](https://medium.com/@jessewei) · [Bluesky](https://bsky.app/profile/mrjwei.bsky.social) · jesseweijapan@gmail.com
+[jessewei.net](https://jessewei.net) · [LinkedIn](https://www.linkedin.com/in/jesse-wei-profile/)  · jesseweijapan@gmail.com
